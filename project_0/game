@@ -5,6 +5,11 @@
 import numpy as np
 
 def create_number():
+    """Компьютер загадывает число
+
+    Returns:
+        int: Загаданное число
+    """ 
     created_number = np.random.randint(1, 101)
     return created_number
 
