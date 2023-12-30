@@ -9,8 +9,12 @@
 
 ### Описание проекта
 Работа с базой резюме, выгруженной с сайта поиска вакансий hh.ru. 
+
 Ссылка на исходный датасет: 
 <https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view>
+
+Ссылка на файл с курсами валют:
+<https://drive.google.com/file/d/1g0NK7u_GT7N2Z9S7FyIfV8KwKk_U85aZ/view?usp=share_link>
 
 :arrow_up: [К оглавдению]()
 
